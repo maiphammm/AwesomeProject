@@ -128,6 +128,19 @@
             "quantity": "10",
             "image": "macchiato_pic_1_square.png"
 
+        },
+        {
+            "id": "C7",
+            "name": "Macchiato",
+            "price": "3.50",
+            "description": "The word macchiato means spotted, so a macchiato espresso is an espresso with a splash of milk. Most coffee shops will top off this type of coffee drink with some foamed milk instead of just steamed milk for what's known as a traditional macchiato.",
+            "roasted": "Medium Roasted",
+            "ingredients": "With Steamed Milk",
+            "size": "L",
+            "type": "Coffee",
+            "quantity": "10",
+            "image": "macchiato_pic_1_square.png"
+
         }
     ]
 }
