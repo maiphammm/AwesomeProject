@@ -43,11 +43,10 @@ const ProductView = ({ route, navigation }) => {
           </TouchableOpacity>
           <ScrollView style={styles.details}>
             <Text style={styles.text}>Description: {wigDB.description}</Text>
-            <Text style={styles.text}>Cap: {wigDB.cap}</Text>
-            <Text style={styles.text}>Length: {wigDB.length}</Text>
-            <Text style={styles.text}>Weight: {wigDB.weight}</Text>
-            <Text style={styles.text}>Density: {wigDB.density}</Text>
-            <Text style={styles.text}>Handmade: {wigDB.handmade}</Text>
+            <Text style={styles.text}>Roasted: {wigDB.roasted}</Text>
+            <Text style={styles.text}>Ingredients: {wigDB.ingredients}</Text>
+            <Text style={styles.text}>Size: {wigDB.size}</Text>
+            <Text style={styles.text}>Type: {wigDB.type}</Text>
           </ScrollView>
         </View>
       </View>
