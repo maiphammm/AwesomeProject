@@ -29,7 +29,7 @@ const Home = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.Heading}>LaviaWigs</Text>
+      <Text style={styles.Heading}>Coffee House</Text>
       <TextInput
         style={styles.input}
         placeholder="Search..."
