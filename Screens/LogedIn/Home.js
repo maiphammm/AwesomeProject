@@ -36,10 +36,16 @@ const Home = () => {
 
 
     const imagePaths = {
-        "balayage_wig.png": require('../../assets/wig_assets/balayage_wig.png'),
-        "natural_black_wig.png": require('../../assets/wig_assets/natural_black_wig.png'),
-        "tea_bob_wig.png": require('../../assets/wig_assets/tea_bob_wig.png'),
-        "red_wig.png": require('../../assets/wig_assets/red_wig.png'),
+        "robusta_coffee_beans_square.png": require('../../assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_square.png'),
+        "arabica_coffee_beans_square.png": require('../../assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_square.png'),
+        "liberica_coffee_beans_square.png": require('../../assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_square.png'),
+        "excelsa_coffee_beans_square.png": require('../../assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_square.png'),
+        "americano_pic_1_square.png": require('../../assets/coffee_assets/americano/square/americano_pic_1_square.png'),
+        "black_coffee_pic_1_square.png": require('../../assets/coffee_assets/black_coffee/square/black_coffee_pic_1_square.png'),
+        "cappuccino_pic_1_square.png": require('../../assets/coffee_assets/cappuccino/square/cappuccino_pic_1_square.png'),
+        "espresso_pic_1_square.png": require('../../assets/coffee_assets/espresso/square/espresso_pic_1_square.png'),
+        "latte_pic_1_square.png": require('../../assets/coffee_assets/latte/square/latte_pic_1_square.png'),
+        "macchiato_pic_1_square.png": require('../../assets/coffee_assets/macchiato/square/macchiato_pic_1_square.png'),
     };
 
     return (
