@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import creatPaymentIntent from './apis';
 import ButtonComp from './ButtonCamp';
-import bgimage from "../../../assets/wig_assets/balayage_wig.png"
+import bgimage from "../../../assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_square.png"
 import {useNavigation} from "@react-navigation/native";
 
 const PaymentScreen = ({ route }) => {
